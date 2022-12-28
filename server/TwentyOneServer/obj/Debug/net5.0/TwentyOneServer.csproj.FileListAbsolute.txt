@@ -1,0 +1,58 @@
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\appsettings.Development.json
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\appsettings.json
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.exe
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.deps.json
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.runtimeconfig.json
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.runtimeconfig.dev.json
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.dll
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\ref\TwentyOneServer.dll
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.pdb
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.csproj.AssemblyReference.cache
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.AssemblyInfoInputs.cache
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.AssemblyInfo.cs
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.csproj.CoreCompileInputs.cache
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.MvcApplicationPartsAssemblyInfo.cs
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.MvcApplicationPartsAssemblyInfo.cache
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\staticwebassets\TwentyOneServer.StaticWebAssets.Manifest.cache
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\staticwebassets\TwentyOneServer.StaticWebAssets.xml
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\scopedcss\bundle\TwentyOneServer.styles.css
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.RazorTargetAssemblyInfo.cache
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.csproj.CopyComplete
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.dll
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\ref\TwentyOneServer.dll
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.pdb
+E:\лаба Белодед\TwentyOneServer\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.genruntimeconfig.cache
+E:\testing\TwentyOneServer\bin\Debug\net5.0\appsettings.Development.json
+E:\testing\TwentyOneServer\bin\Debug\net5.0\appsettings.json
+E:\testing\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.StaticWebAssets.xml
+E:\testing\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.exe
+E:\testing\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.deps.json
+E:\testing\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.runtimeconfig.json
+E:\testing\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.runtimeconfig.dev.json
+E:\testing\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.dll
+E:\testing\TwentyOneServer\bin\Debug\net5.0\TwentyOneServer.pdb
+E:\testing\TwentyOneServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\testing\TwentyOneServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\testing\TwentyOneServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\testing\TwentyOneServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.csproj.AssemblyReference.cache
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.AssemblyInfoInputs.cache
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.AssemblyInfo.cs
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.csproj.CoreCompileInputs.cache
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.MvcApplicationPartsAssemblyInfo.cs
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.MvcApplicationPartsAssemblyInfo.cache
+E:\testing\TwentyOneServer\obj\Debug\net5.0\scopedcss\bundle\TwentyOneServer.styles.css
+E:\testing\TwentyOneServer\obj\Debug\net5.0\staticwebassets\TwentyOneServer.StaticWebAssets.Manifest.cache
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.RazorTargetAssemblyInfo.cache
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.csproj.CopyComplete
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.dll
+E:\testing\TwentyOneServer\obj\Debug\net5.0\refint\TwentyOneServer.dll
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.pdb
+E:\testing\TwentyOneServer\obj\Debug\net5.0\TwentyOneServer.genruntimeconfig.cache
+E:\testing\TwentyOneServer\obj\Debug\net5.0\ref\TwentyOneServer.dll
